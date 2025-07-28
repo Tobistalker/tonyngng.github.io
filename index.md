@@ -1,9 +1,7 @@
 ---
 
 ---
-<a href="https://www.linkedin.com/in/tony-ng-ng" target="_blank" rel="noopener noreferrer">
-  <img src="https://example.com/your-badge-image.png" alt="LinkedIn Badge" style="width:150px; height:auto; border-radius:8px;">
-</a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 There should be whitespace between paragraphs.
 
