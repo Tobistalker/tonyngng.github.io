@@ -1,4 +1,5 @@
 <a href="https://linkedin.com/tony-ng-ng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 [Brief Introduction - Remove this afterwards]
 
 Enthusiastic cybersecurity graduate with constant interest on learning the new trends of this field, so I can offer my best knowledge to my clients. My forte is backend coding (supporting end users).
