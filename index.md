@@ -1,7 +1,13 @@
 <a href="https://linkedin.com/tony-ng-ng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Enthusiastic cybersecurity graduate with constant interest on learning the new trends of this field, so I can offer my best knowledge to my clients. My forte is backend coding (supporting end users).
+ 
+I have always been passionate on IT, so I pursued both degrees, and now I’m searching for an internship to apply all of my learned skills.
+
+Besides my IT knowledge, I’m a polyglot with proficiency in English, Spanish, and Cantonese. And I consider myself a person who is easy to work with, as I take into consideration the importance of teamwork to achieve the company’s goal in the least time possible.
+
+Reach out to me through this platform, so we can talk about the position you have available.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
