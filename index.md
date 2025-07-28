@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[LinkedIn](https://www.linkedin.com/in/tony-ng-ng/).
+<a href="https://www.linkedin.com/in/tony-ng-ng/"><img src="https://img.shields,io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 There should be whitespace between paragraphs.
 
